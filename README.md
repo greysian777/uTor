@@ -1,7 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/greysian777/Google-Colab-CloudTorrent/master/src/cover.png" alt="cover"></p>
-
-![preview](https://raw.githubusercontent.com/greysian777/Google-Colab-CloudTorrent/master/src/preview.gif)
-
 # Google-Colab-CloudTorrent <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgreysian777%2FuTor" alt="Hits">
 
 <b>Features:</b><br>
